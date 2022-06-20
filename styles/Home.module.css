@@ -108,6 +108,14 @@
   margin-left: 0.5rem;
 }
 
+.spinContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

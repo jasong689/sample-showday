@@ -73,7 +73,9 @@ const Home: NextPage = () => {
   return !loading && isAuthenticated ? (
     <Authenticated />
   ) : (
-    <Spinner $size={SIZE.medium} />
+    <div className={styles.spinContainer}>
+      <Spinner $size={SIZE.medium} />
+    </div>
   );
 };
 
