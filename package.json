@@ -11,7 +11,7 @@
   "dependencies": {
     "@gadget-client/sample-showday": "^1.38.0",
     "@gadgetinc/react": "^0.4.5",
-    "@gadgetinc/react-shopify-app-bridge": "^0.1.0",
+    "@gadgetinc/react-shopify-app-bridge": "^0.1.1",
     "@gadgetinc/themes": "^0.4.0",
     "@shopify/app-bridge-react": "^2.1.0",
     "baseui": "^11.1.1",
